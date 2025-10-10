@@ -10,8 +10,6 @@ We focus on building practical, high-quality applications like **Morfosis**, an 
 
 🎵 Open-Source Apps (like Morfosis, utilities, and productivity tools)
 
-⚡ Lightweight, Cross-Platform Solutions
-
 🛠️ Tools Powered by Popular Open-Source Libraries (FFmpeg, etc.)
 
 🌱 Projects You Can Contribute To and Learn From
