@@ -4,20 +4,16 @@
 
 Welcome to the official organization for **Rama** — a community-driven hub for open-source apps, tools, and projects designed to empower users and developers alike.
 
-We focus on building practical, high-quality applications like **Morfosis**, an audio converter powered by FFmpeg, alongside other open-source tools that make everyday tasks easier and more accessible.
+## Projects
 
-## 🚀 What You'll Find Here
+### Romala / 2021-03-05
 
-🎵 Open-Source Apps (like Morfosis, utilities, and productivity tools)
+[![Romala](https://rama-o.github.io/img/preview-romala.webp)](https://github.com/rama-o/romala)
 
-🛠️ Tools Powered by Popular Open-Source Libraries (FFmpeg, etc.)
+### Nano Grid / 2021-03-21
 
-🌱 Projects You Can Contribute To and Learn From
+[![Nano Grid](https://rama-o.github.io/img/preview-nano-grid.webp)](https://github.com/rama-o/nano-grid)
 
-## 🤝 Contributing
+### Morfosis / 2025-09-06
 
-Rama thrives on collaboration. If you have ideas, improvements, or want to help maintain our projects, jump in! Feel free to open a discussion, suggest features, or submit pull requests.
-
-## Thanks for being here. Let’s build open-source apps that make a difference!
-
-— The Rama Team
+[![Morfosis](https://rama-o.github.io/img/preview-morfosis.webp)](https://github.com/rama-o/morfosis)
