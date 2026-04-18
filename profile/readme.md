@@ -13,6 +13,6 @@ intentional with your time.
 
 ### Mako / 2025-12-19
 
-[![Preview](https://raw.githubusercontent.com/rama-io/mako/1d0863098d14ce145f92baa73fe286fdcf4f7f68/docs/img/mako_header_1280x630.svg)](https://github.com/rama-io/mako)
+[![Preview](https://raw.githubusercontent.com/rama-io/mako/176c3424b8996ebfff03b772e65d23d293db3d18/docs/img/mako_header_1024x630.svg)](https://github.com/rama-io/mako)
 
 **Mako** is a **minimal, privacy-first Android launcher** designed for focus, speed, and simplicity.
