@@ -11,5 +11,8 @@ Welcome to the official organization for **Rama**, a community-driven hub for op
 **Txori** is a minimal, privacy-first focus session app designed to help you stay present and
 intentional with your time.
 
-Built entirely in **native Kotlin**, Txori runs fully **on-device**, avoids tracking, no internet
-access, and no external APIs.
+### Mako / 2025-12-19
+
+[![Preview](https://raw.githubusercontent.com/rama-io/mako/1d0863098d14ce145f92baa73fe286fdcf4f7f68/docs/img/mako_header_1280x630.svg)](https://github.com/rama-io/mako)
+
+**Mako** is a **minimal, privacy-first Android launcher** designed for focus, speed, and simplicity.
