@@ -8,7 +8,7 @@ A privacy-first hub for minimal, lightweight open-source apps. built in native K
 
 [![Preview](https://raw.githubusercontent.com/rama-io/txori/24393a04a864d8313f85bc3be93e15b047c47753/docs/img/txori_header_1280x630.svg)](https://github.com/rama-io/txori)
 
-**Txori** is a minimal, privacy-first focus session app designed to help you stay present and
+**Txori** is a **focus session app** designed to help you stay present and
 intentional with your time.
 
 
@@ -22,7 +22,7 @@ intentional with your time.
 
 [![Preview](https://raw.githubusercontent.com/rama-io/mako/1137d65fd131ee354a9a8b114bf93cfa3a3235eb/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako)
 
-**Mako** is a **minimal, privacy-first Android launcher** designed for focus, speed, and simplicity.
+**Mako** is an **Android launcher** designed for focus, speed, and simplicity.
 
 | Home | Settings | About |
 | - | - | - |
