@@ -1,6 +1,6 @@
 # Welcome to Rama
 
-A community-driven hub for open-source apps, tools, and projects designed to empower users.
+A privacy-first hub for minimal, lightweight open-source apps. built in native Kotlin, running entirely on-device, with no tracking and designed to bring new life to your device.
 
 ## Projects
 
