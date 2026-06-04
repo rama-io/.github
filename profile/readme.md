@@ -19,11 +19,9 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 [![Preview](https://raw.githubusercontent.com/rama-io/tui/master/docs/img/tui_header_1200x630.svg)](https://github.com/rama-io/tui)
 
 <p align="center">
-  <a href="https://github.com/rama-io/tui/stargazers"><img src="https://img.shields.io/github/stars/rama-io/tui?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <a href="https://github.com/rama-io/tui/issues"><img src="https://img.shields.io/github/issues/rama-io/tui?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-  <a href="https://github.com/rama-io/tui/releases/latest"><img src="https://img.shields.io/github/v/release/rama-io/tui?colorA=363a4f&colorB=a6da95&style=for-the-badge" alt="Release"></a>
-  <a href="https://github.com/rama-io/tui/releases"><img src="https://img.shields.io/github/downloads/rama-io/tui/total?colorA=363a4f&colorB=ea999c&style=for-the-badge" alt="Downloads"></a>
+  <img src="https://rama-io.github.io/img/badge_tui.svg">
 </p>
+
 
 **Tui** is a minimal, privacy-first local music player that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
 
@@ -38,10 +36,7 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 [![Preview](https://raw.githubusercontent.com/rama-io/txori/24393a04a864d8313f85bc3be93e15b047c47753/docs/img/txori_header_1280x630.svg)](https://github.com/rama-io/txori)
 
 <p align="center">
-  <a href="https://github.com/rama-io/txori/stargazers"><img src="https://img.shields.io/github/stars/rama-io/txori?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <a href="https://github.com/rama-io/txori/issues"><img src="https://img.shields.io/github/issues/rama-io/txori?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-  <a href="https://github.com/rama-io/txori/releases/latest"><img src="https://img.shields.io/github/v/release/rama-io/txori?colorA=363a4f&colorB=a6da95&style=for-the-badge" alt="Release"></a>
-  <a href="https://github.com/rama-io/txori/releases"><img src="https://img.shields.io/github/downloads/rama-io/txori/total?colorA=363a4f&colorB=ea999c&style=for-the-badge" alt="Downloads"></a>
+  <img src="https://rama-io.github.io/img/badge_txori.svg">
 </p>
 
 **Txori** is a **focus session app** designed to help you stay present and
@@ -59,10 +54,7 @@ intentional with your time.
 [![Preview](https://raw.githubusercontent.com/rama-io/mako/1137d65fd131ee354a9a8b114bf93cfa3a3235eb/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako)
 
 <p align="center">
-  <a href="https://github.com/rama-io/mako/stargazers"><img src="https://img.shields.io/github/stars/rama-io/mako?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <a href="https://github.com/rama-io/mako/issues"><img src="https://img.shields.io/github/issues/rama-io/mako?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-  <a href="https://github.com/rama-io/mako/releases/latest"><img src="https://img.shields.io/github/v/release/rama-io/mako?colorA=363a4f&colorB=a6da95&style=for-the-badge" alt="Release"></a>
-  <a href="https://github.com/rama-io/mako/releases"><img src="https://img.shields.io/github/downloads/rama-io/mako/total?colorA=363a4f&colorB=ea999c&style=for-the-badge" alt="Downloads"></a>
+  <img src="https://rama-io.github.io/img/badge_mako.svg">
 </p>
 
 **Mako** is an **Android launcher** designed for focus, speed, and simplicity.
