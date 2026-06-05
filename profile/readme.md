@@ -17,10 +17,7 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 ### Tui / 2026-04-25
 
 [![Preview](https://raw.githubusercontent.com/rama-io/tui/master/docs/img/tui_header_1200x630.svg)](https://github.com/rama-io/tui)
-
-<p align="center">
-  <img src="https://rama-io.github.io/img/badge_tui.svg">
-</p>
+![Badge](https://rama-io.github.io/img/badge_tui.svg)
 
 
 **Tui** is a minimal, privacy-first local music player that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
@@ -34,10 +31,7 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 ### Txori / 2026-03-07
 
 [![Preview](https://raw.githubusercontent.com/rama-io/txori/24393a04a864d8313f85bc3be93e15b047c47753/docs/img/txori_header_1280x630.svg)](https://github.com/rama-io/txori)
-
-<p align="center">
-  <img src="https://rama-io.github.io/img/badge_txori.svg">
-</p>
+![Badge](https://rama-io.github.io/img/badge_txori.svg)
 
 **Txori** is a **focus session app** designed to help you stay present and
 intentional with your time.
@@ -52,10 +46,7 @@ intentional with your time.
 ### Mako / 2025-12-19
 
 [![Preview](https://raw.githubusercontent.com/rama-io/mako/1137d65fd131ee354a9a8b114bf93cfa3a3235eb/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako)
-
-<p align="center">
-  <img src="https://rama-io.github.io/img/badge_mako.svg">
-</p>
+![Badge](https://rama-io.github.io/img/badge_mako.svg)
 
 **Mako** is an **Android launcher** designed for focus, speed, and simplicity.
 
