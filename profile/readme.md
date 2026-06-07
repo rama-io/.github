@@ -6,7 +6,13 @@ A privacy-first hub for minimal, lightweight open-source apps. built in native K
 
 ## Branding creation
 
-Want to see how Tui’s visual identity came together?
+Something you'll notice is that each project name comes from an Indigenous language:
+
+- Mako :: Arawak [Frog]
+- Txori :: Euskara [Bird]
+- Tūī :: Māori
+
+Want to see how Tūī’s visual identity came together?
 
 This short session captures part of the process behind designing the app’s header. Exploring sketches, composition, and refinement as the direction takes shape.
 
@@ -14,13 +20,13 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 
 ## Projects
 
-### Tui / 2026-04-25
+### Tūī / 2026-04-25
 
 [![Preview](https://raw.githubusercontent.com/rama-io/tui/master/docs/img/tui_header_1200x630.svg)](https://github.com/rama-io/tui)
-![Badge](https://rama-io.github.io/img/badge_tui.svg)
+[![Badge](https://rama-io.github.io/img/badge_tui.svg)](https://github.com/rama-io/tui)
 
 
-**Tui** is a minimal, privacy-first local music player that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
+**Tūī** is a minimal, privacy-first local music player that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
 
 | Playlist | Settings | About |
 | - | - | - |
@@ -31,7 +37,7 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 ### Txori / 2026-03-07
 
 [![Preview](https://raw.githubusercontent.com/rama-io/txori/24393a04a864d8313f85bc3be93e15b047c47753/docs/img/txori_header_1280x630.svg)](https://github.com/rama-io/txori)
-![Badge](https://rama-io.github.io/img/badge_txori.svg)
+[![Badge](https://rama-io.github.io/img/badge_txori.svg)](https://github.com/rama-io/txori)
 
 **Txori** is a **focus session app** designed to help you stay present and
 intentional with your time.
@@ -46,7 +52,7 @@ intentional with your time.
 ### Mako / 2025-12-19
 
 [![Preview](https://raw.githubusercontent.com/rama-io/mako/1137d65fd131ee354a9a8b114bf93cfa3a3235eb/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako)
-![Badge](https://rama-io.github.io/img/badge_mako.svg)
+[![Badge](https://rama-io.github.io/img/badge_mako.svg)](https://github.com/rama-io/mako)
 
 **Mako** is an **Android launcher** designed for focus, speed, and simplicity.
 
