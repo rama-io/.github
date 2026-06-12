@@ -11,6 +11,7 @@ Something you'll notice is that each project name comes from an Indigenous langu
 - Mako :: Arawak [Frog]
 - Txori :: Euskara [Bird]
 - Tūī :: Māori
+- Teyin :: Old Turkish
 
 Want to see how Tūī’s visual identity came together?
 
@@ -20,13 +21,26 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 
 ## Projects
 
+### Teyin / 2026-06-06
+
+[![Preview](https://raw.githubusercontent.com/rama-io/teyin/master/docs/img/teyin_header_1200x630.svg)](https://github.com/rama-io/teyin)
+[![Badge](https://rama-io.github.io/img/badge_teyin.svg)](https://github.com/rama-io/teyin)
+
+**Teyin** is a lightweigh, minimal, privacy-first **file manager** designed for speed, and simplicity.
+
+| Playlist | Settings | About |
+| - | - | - |
+| ![Playlist](https://raw.githubusercontent.com/rama-io/teyin/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/teyin/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/teyin/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
+
+---
+
 ### Tūī / 2026-04-25
 
 [![Preview](https://raw.githubusercontent.com/rama-io/tui/master/docs/img/tui_header_1200x630.svg)](https://github.com/rama-io/tui)
 [![Badge](https://rama-io.github.io/img/badge_tui.svg)](https://github.com/rama-io/tui)
 
 
-**Tūī** is a minimal, privacy-first local music player that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
+**Tūī** is a minimal, privacy-first local **music player** that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
 
 | Playlist | Settings | About |
 | - | - | - |
