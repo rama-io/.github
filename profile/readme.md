@@ -28,7 +28,19 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 
 **Teyin** is a lightweigh, minimal, privacy-first **file manager** designed for speed, and simplicity.
 
-[Get Teyin From Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/teyin)
+<p>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/teyin">
+    <img src="https://rama-io.github.io/img/obtainium.png" alt="Get Teyin From Obtainium">
+  </a>
+  &nbsp;
+  <a href="https://f-droid.org/app/com.rama.teyin">
+    <img src="https://rama-io.github.io/img/fdroid.png" alt="Get Teyin From F-Droid">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rama-io/teyin/releases/latest">
+    <img src="https://rama-io.github.io/img/github.png" alt="Get Teyin From GitHub">
+  </a>
+</p>
 
 | Playlist | Settings | About |
 | - | - | - |
@@ -44,7 +56,19 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 
 **Tūī** is a minimal, privacy-first local **music player** that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
 
-[Get Tui From Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/tui)
+<p>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/tui">
+    <img src="https://rama-io.github.io/img/obtainium.png" alt="Get tui From Obtainium">
+  </a>
+  &nbsp;
+  <a href="https://f-droid.org/app/com.rama.tui">
+    <img src="https://rama-io.github.io/img/fdroid.png" alt="Get tui From F-Droid">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rama-io/tui/releases/latest">
+    <img src="https://rama-io.github.io/img/github.png" alt="Get tui From GitHub">
+  </a>
+</p>
 
 | Playlist | Settings | About |
 | - | - | - |
@@ -60,7 +84,19 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 **Txori** is a **focus session app** designed to help you stay present and
 intentional with your time.
 
-[Get Txori From Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/txori)
+<p>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/txori">
+    <img src="https://rama-io.github.io/img/obtainium.png" alt="Get txori From Obtainium">
+  </a>
+  &nbsp;
+  <a href="https://f-droid.org/app/com.rama.txori">
+    <img src="https://rama-io.github.io/img/fdroid.png" alt="Get txori From F-Droid">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rama-io/txori/releases/latest">
+    <img src="https://rama-io.github.io/img/github.png" alt="Get txori From GitHub">
+  </a>
+</p>
 
 | Focus | Stopwatch | About |
 | - | - | - |
@@ -75,7 +111,19 @@ intentional with your time.
 
 **Mako** is an **Android launcher** designed for focus, speed, and simplicity.
 
-[Get Mako From Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/mako)
+<p>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/mako">
+    <img src="https://rama-io.github.io/img/obtainium.png" alt="Get mako From Obtainium">
+  </a>
+  &nbsp;
+  <a href="https://f-droid.org/app/com.rama.mako">
+    <img src="https://rama-io.github.io/img/fdroid.png" alt="Get mako From F-Droid">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rama-io/mako/releases/latest">
+    <img src="https://rama-io.github.io/img/github.png" alt="Get mako From GitHub">
+  </a>
+</p>
 
 | Home | Settings | About |
 | - | - | - |
