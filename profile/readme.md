@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 
 **Teyin** is a lightweigh, minimal, privacy-first **file manager** designed for speed, and simplicity.
 
+[Get Teyin From Obtanium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/teyin)
+
 | Playlist | Settings | About |
 | - | - | - |
 | ![Playlist](https://raw.githubusercontent.com/rama-io/teyin/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/teyin/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/teyin/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
@@ -41,6 +43,8 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 
 
 **Tūī** is a minimal, privacy-first local **music player** that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
+
+[Get Tui From Obtanium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/tui)
 
 | Playlist | Settings | About |
 | - | - | - |
@@ -56,6 +60,7 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 **Txori** is a **focus session app** designed to help you stay present and
 intentional with your time.
 
+[Get Txori From Obtanium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/txori)
 
 | Focus | Stopwatch | About |
 | - | - | - |
@@ -69,6 +74,8 @@ intentional with your time.
 [![Badge](https://rama-io.github.io/img/badge_mako.svg)](https://github.com/rama-io/mako)
 
 **Mako** is an **Android launcher** designed for focus, speed, and simplicity.
+
+[Get Mako From Obtanium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/mako)
 
 | Home | Settings | About |
 | - | - | - |
