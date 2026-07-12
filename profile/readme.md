@@ -38,9 +38,9 @@ places.
   </a>
 </p>
 
-| Home | Text Preview Dark | Text Preview Light | About |
-| - | - | - | - |
-| ![Playlist](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Text Preview Dark](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Text Preview Light](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![About](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
+| Home | Text Preview Dark | About |
+| - | - | - |
+| ![Playlist](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Text Preview Dark](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
 
 ---
 
