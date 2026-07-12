@@ -2,16 +2,9 @@
 
 A privacy-first hub for minimal, lightweight open-source apps. built in native Kotlin, running entirely on-device, with no tracking and designed to bring new life to your device.
 
-[Join our community on Discord:](https://discord.gg/xVEFdf9f)
+[Join our community on Discord:](https://discord.com/invite/zFFupY8PFE)
 
 ## Branding creation
-
-Something you'll notice is that each project name comes from an Indigenous language:
-
-- Mako :: Arawak [Frog]
-- Txori :: Euskara [Bird]
-- Tūī :: Māori
-- Teyin :: Old Turkish
 
 Want to see how Tūī’s visual identity came together?
 
@@ -20,6 +13,36 @@ This short session captures part of the process behind designing the app’s hea
 https://www.youtube.com/watch?v=We8xXVLiVI4
 
 ## Projects
+
+
+### Okapi / 2026-07-10
+
+[![Preview](https://raw.githubusercontent.com/rama-io/okapi/master/docs/img/okapi_header_1200x630.svg)](https://github.com/rama-io/okapi)
+[![Badge](https://rama-io.github.io/img/badge_okapi.svg)](https://github.com/rama-io/okapi)
+
+**Okapi** is a **minimal, privacy-first Android communication aid** designed to make one-on-one
+conversations easier for deaf and hard-of-hearing people, and anyone talking in loud or noisy
+places.
+
+<p>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/okapi">
+    <img src="https://rama-io.github.io/img/obtainium.svg" alt="Get Okapi From Obtainium">
+  </a>
+  &nbsp;
+  <a href="https://f-droid.org/app/com.rama.okapi">
+    <img src="https://rama-io.github.io/img/fdroid.svg" alt="Get Okapi From F-Droid">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rama-io/okapi/releases/latest">
+    <img src="https://rama-io.github.io/img/github.svg" alt="Get Okapi From GitHub">
+  </a>
+</p>
+
+| Home | Text Preview Dark | Text Preview Light | About |
+| - | - | - | - |
+| ![Playlist](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Text Preview Dark](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Text Preview Light](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![About](https://raw.githubusercontent.com/rama-io/okapi/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
+
+---
 
 ### Teyin / 2026-06-06
 
