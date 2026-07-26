@@ -49,7 +49,7 @@ places.
 [![Preview](https://raw.githubusercontent.com/rama-io/teyin/master/docs/img/teyin_header_1200x630.svg)](https://github.com/rama-io/teyin)
 [![Badge](https://rama-io.github.io/img/badge_teyin.svg)](https://github.com/rama-io/teyin)
 
-**Teyin** is a lightweigh, minimal, privacy-first **file manager** designed for speed, and simplicity.
+**Teyin** is a lightweight, minimal, privacy-first **file manager** designed for speed, and simplicity.
 
 <p>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/teyin">
