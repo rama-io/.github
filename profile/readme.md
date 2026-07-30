@@ -14,11 +14,29 @@ https://www.youtube.com/watch?v=We8xXVLiVI4
 
 ## Projects
 
+### Jaguar / 2026-07-25
+
+[![Preview](https://raw.githubusercontent.com/rama-io/jaguar/master/docs/img/jaguar_header_1200x630.svg)](https://github.com/rama-io/jaguar)
+
+**Jaguar** is an Android app for practicing braille by touch-typing it. Instead of reading braille, you build it: each round shows you a word and you enter its braille cells one at a time on a 6-dot input, cell by cell, until the whole word is spelled out correctly.
+
+<p>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/jaguar">
+    <img src="https://rama-io.github.io/img/obtainium.svg" alt="Get Jaguar From Obtainium">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rama-io/jaguar/releases/latest">
+    <img src="https://rama-io.github.io/img/github.svg" alt="Get Jaguar From GitHub">
+  </a>
+</p>
+
+| Stage | Settings | About |
+| - | - | - |
+| ![Stage](https://raw.githubusercontent.com/rama-io/jaguar/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/jaguar/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/jaguar/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
 
 ### Okapi / 2026-07-10
 
 [![Preview](https://raw.githubusercontent.com/rama-io/okapi/master/docs/img/okapi_header_1200x630.svg)](https://github.com/rama-io/okapi)
-[![Badge](https://rama-io.github.io/img/badge_okapi.svg)](https://github.com/rama-io/okapi)
 
 **Okapi** is a **minimal, privacy-first Android communication aid** designed to make one-on-one
 conversations easier for deaf and hard-of-hearing people, and anyone talking in loud or noisy
@@ -28,10 +46,6 @@ places.
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/okapi">
     <img src="https://rama-io.github.io/img/obtainium.svg" alt="Get Okapi From Obtainium">
   </a>
-  <!-- &nbsp;
-  <a href="https://f-droid.org/app/com.rama.okapi">
-    <img src="https://rama-io.github.io/img/fdroid.svg" alt="Get Okapi From F-Droid">
-  </a> -->
   &nbsp;
   <a href="https://github.com/rama-io/okapi/releases/latest">
     <img src="https://rama-io.github.io/img/github.svg" alt="Get Okapi From GitHub">
@@ -47,7 +61,6 @@ places.
 ### Teyin / 2026-06-06
 
 [![Preview](https://raw.githubusercontent.com/rama-io/teyin/master/docs/img/teyin_header_1200x630.svg)](https://github.com/rama-io/teyin)
-[![Badge](https://rama-io.github.io/img/badge_teyin.svg)](https://github.com/rama-io/teyin)
 
 **Teyin** is a lightweight, minimal, privacy-first **file manager** designed for speed, and simplicity.
 
@@ -74,7 +87,6 @@ places.
 ### Tūī / 2026-04-25
 
 [![Preview](https://raw.githubusercontent.com/rama-io/tui/master/docs/img/tui_header_1200x630.svg)](https://github.com/rama-io/tui)
-[![Badge](https://rama-io.github.io/img/badge_tui.svg)](https://github.com/rama-io/tui)
 
 
 **Tūī** is a minimal, privacy-first local **music player** that skips metadata entirely. What you see is exactly what you name, no hidden tags, no surprises.
@@ -102,7 +114,6 @@ places.
 ### Txori / 2026-03-07
 
 [![Preview](https://raw.githubusercontent.com/rama-io/txori/24393a04a864d8313f85bc3be93e15b047c47753/docs/img/txori_header_1280x630.svg)](https://github.com/rama-io/txori)
-[![Badge](https://rama-io.github.io/img/badge_txori.svg)](https://github.com/rama-io/txori)
 
 **Txori** is a **focus session app** designed to help you stay present and
 intentional with your time.
@@ -130,7 +141,6 @@ intentional with your time.
 ### Mako / 2025-12-19
 
 [![Preview](https://raw.githubusercontent.com/rama-io/mako/1137d65fd131ee354a9a8b114bf93cfa3a3235eb/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako)
-[![Badge](https://rama-io.github.io/img/badge_mako.svg)](https://github.com/rama-io/mako)
 
 **Mako** is an **Android launcher** designed for focus, speed, and simplicity.
 
