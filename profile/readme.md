@@ -2,7 +2,9 @@
 
 A privacy-first hub for minimal, lightweight open-source apps. built in native Kotlin, running entirely on-device, with no tracking and designed to bring new life to your device.
 
-[Join our community on Discord:](https://discord.gg/zFFupY8PFE)
+[Rama Apps Showcase - July 2026](https://www.youtube.com/watch?v=u0R5YNajFHY)
+
+[Join our community on Discord](https://discord.gg/zFFupY8PFE)
 
 ## Branding creation
 
@@ -10,7 +12,7 @@ Want to see how Tūī’s visual identity came together?
 
 This short session captures part of the process behind designing the app’s header. Exploring sketches, composition, and refinement as the direction takes shape.
 
-https://www.youtube.com/watch?v=We8xXVLiVI4
+[Tūī's Illustration Session](https://www.youtube.com/watch?v=We8xXVLiVI4)
 
 ## Projects
 
