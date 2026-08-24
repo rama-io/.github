@@ -1,4 +1,4 @@
-# Welcome to Rama
+# Rama-IO
 
 A privacy-first hub for minimal, lightweight open-source apps. built in native Kotlin, running entirely on-device, with no tracking and designed to bring new life to your device.
 
