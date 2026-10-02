@@ -16,7 +16,7 @@ This short session captures part of the process behind designing the app’s hea
 
 ## Projects
 
-### Mako Zero / 2026-09-02
+### Mako Zero / 2026-09-02 (1986-11-18)
 
 [![Preview](https://raw.githubusercontent.com/rama-io/mako_zero/04c9e1c19c190c9484c1e7690f198796ef870e9e/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako_zero)
 
