@@ -16,6 +16,18 @@ This short session captures part of the process behind designing the app’s hea
 
 ## Projects
 
+### Mako Zero / 2026-09-02
+
+[![Preview](https://raw.githubusercontent.com/rama-io/mako_zero/04c9e1c19c190c9484c1e7690f198796ef870e9e/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako_zero)
+
+Just a launcher that gets out of the way.
+
+| Home | Settings | About |
+| - | - | - |
+| ![Home](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
+
+---
+
 ### Jaguar / 2026-07-25
 
 [![Preview](https://raw.githubusercontent.com/rama-io/jaguar/master/docs/img/jaguar_header_1200x630.svg)](https://github.com/rama-io/jaguar)
