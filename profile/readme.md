@@ -100,6 +100,8 @@ Turn your camera notch into a gesture button.
 | - | - |
 | [![Home](https://raw.githubusercontent.com/rama-io/suri_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/suri_zero) | [![About](https://raw.githubusercontent.com/rama-io/suri_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/suri_zero) |
 
+---
+
 ### Mako Zero / 2026-09-02
 
 Just a launcher that gets out of the way.
