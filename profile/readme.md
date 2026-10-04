@@ -16,18 +16,6 @@ This short session captures part of the process behind designing the app’s hea
 
 ## Projects
 
-### Mako Zero / 2026-09-02 (1986-11-18)
-
-[![Preview](https://raw.githubusercontent.com/rama-io/mako_zero/04c9e1c19c190c9484c1e7690f198796ef870e9e/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako_zero)
-
-Just a launcher that gets out of the way.
-
-| Home | Settings | About |
-| - | - | - |
-| ![Home](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
-
----
-
 ### Jaguar / 2026-07-25
 
 [![Preview](https://raw.githubusercontent.com/rama-io/jaguar/master/docs/img/jaguar_header_1200x630.svg)](https://github.com/rama-io/jaguar)
@@ -101,3 +89,21 @@ intentional with your time.
 | Home | Settings | About |
 | - | - | - |
 | ![Home](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
+
+## Zero Series (1986-11-18)
+
+### Suri Zero / 2026-10-03
+
+Turn your camera notch into a gesture button.
+
+| Home | About |
+| - | - |
+| [![Home](https://raw.githubusercontent.com/rama-io/suri_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/suri_zero) | [![About](https://raw.githubusercontent.com/rama-io/suri_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/suri_zero) |
+
+### Mako Zero / 2026-09-02
+
+Just a launcher that gets out of the way.
+
+| Home | Settings | About |
+| - | - | - |
+| [![Home](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/mako_zero) | [![Settings](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)](https://github.com/rama-io/mako_zero) | [![About](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/mako_zero) |
