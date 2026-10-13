@@ -92,6 +92,8 @@ intentional with your time.
 
 ## Zero Series (1986)
 
+A series of Java-based apps divided into two variants: **Forever**, supporting API levels 5 through 37, and **Zero**, a minimalist variant supporting API levels 21 through 37, with APKs weighing around 100 KB.
+
 ### Okapi Zero / 2026-10-12
 
 Show your message instead of shouting it.
