@@ -90,7 +90,23 @@ intentional with your time.
 | - | - | - |
 | ![Home](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
 
-## Zero Series (1986-11-18)
+## Zero Series (1986)
+
+### Okapi Zero / 2026-10-12
+
+Show your message instead of shouting it.
+
+| Home | Settings | About |
+| - | - | - |
+| [![Home](https://raw.githubusercontent.com/rama-io/okapi_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/okapi_zero) | [![Settings](https://raw.githubusercontent.com/rama-io/okapi_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)](https://github.com/rama-io/okapi_zero) | [![About](https://raw.githubusercontent.com/rama-io/okapi_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/okapi_zero) |
+
+### Txori Zero / 2026-10-06
+
+A minimal focus-session timer. Lists of tasks, a stopwatch, a timer and a roulette.
+
+| Home | Settings | About |
+| - | - | - |
+| [![Home](https://raw.githubusercontent.com/rama-io/txori_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/txori_zero) | [![Settings](https://raw.githubusercontent.com/rama-io/txori_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)](https://github.com/rama-io/txori_zero) | [![About](https://raw.githubusercontent.com/rama-io/txori_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/txori_zero) |
 
 ### Suri Zero / 2026-10-03
 
