@@ -1,7 +1,5 @@
 # Rama-IO
 
-A privacy-first hub for minimal, lightweight open-source apps. built in native Kotlin, running entirely on-device, with no tracking and designed to bring new life to your device.
-
 [Rama Apps Showcase - July 2026](https://www.youtube.com/watch?v=u0R5YNajFHY)
 
 [Join our community on Discord](https://discord.gg/zFFupY8PFE)
@@ -53,6 +51,8 @@ Just a launcher that gets out of the way.
 | [![Home](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/mako_zero) | [![Settings](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)](https://github.com/rama-io/mako_zero) | [![About](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/mako_zero) |
 
 ## Kotlin Apps
+
+A privacy-first hub for minimal, lightweight open-source apps. built in native **Kotlin**, running entirely on-device, with no tracking and designed to bring new life to your device.
 
 ### Jaguar / 2026-07-25
 
