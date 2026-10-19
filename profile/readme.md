@@ -12,6 +12,20 @@ This short session captures part of the process behind designing the app’s hea
 
 [Tūī's Illustration Session](https://www.youtube.com/watch?v=We8xXVLiVI4)
 
+## Projects
+
+### Fikret / 2026-10-18
+
+![Fikret Preview](https://raw.githubusercontent.com/rama-io/fikret/master/docs/preview.svg)
+
+An idle farm game about a goose who travels to other worlds rescuing birds.
+
+| Lake | Farm | Supervisors | Forest | Space |
+| - | - | - | - | - |
+| ![Lake](https://raw.githubusercontent.com/rama-io/fikret/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Farm](https://raw.githubusercontent.com/rama-io/fikret/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Supervisors](https://raw.githubusercontent.com/rama-io/fikret/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![Forest](https://raw.githubusercontent.com/rama-io/fikret/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) | ![Space](https://raw.githubusercontent.com/rama-io/fikret/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png) |
+
+---
+
 ## Zero Series (1986)
 
 A series of Java-based apps divided into two variants: **Forever**, supporting API levels 5 through 37, and **Zero**, a minimalist variant supporting API levels 21 through 37, with APKs weighing around 100 KB.
@@ -24,6 +38,8 @@ Show your message instead of shouting it.
 | - | - | - |
 | [![Home](https://raw.githubusercontent.com/rama-io/okapi_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/okapi_zero) | [![Settings](https://raw.githubusercontent.com/rama-io/okapi_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)](https://github.com/rama-io/okapi_zero) | [![About](https://raw.githubusercontent.com/rama-io/okapi_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/okapi_zero) |
 
+---
+
 ### Txori Zero
 
 A minimal focus-session timer. Lists of tasks, a stopwatch, a timer and a roulette.
@@ -31,6 +47,8 @@ A minimal focus-session timer. Lists of tasks, a stopwatch, a timer and a roulet
 | Home | Settings | About |
 | - | - | - |
 | [![Home](https://raw.githubusercontent.com/rama-io/txori_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/txori_zero) | [![Settings](https://raw.githubusercontent.com/rama-io/txori_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)](https://github.com/rama-io/txori_zero) | [![About](https://raw.githubusercontent.com/rama-io/txori_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/txori_zero) |
+
+---
 
 ### Suri Zero
 
@@ -49,6 +67,8 @@ Just a launcher that gets out of the way.
 | Home | Settings | About |
 | - | - | - |
 | [![Home](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)](https://github.com/rama-io/mako_zero) | [![Settings](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)](https://github.com/rama-io/mako_zero) | [![About](https://raw.githubusercontent.com/rama-io/mako_zero/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)](https://github.com/rama-io/mako_zero) |
+
+---
 
 ## Kotlin Apps
 
