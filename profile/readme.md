@@ -16,7 +16,7 @@ This short session captures part of the process behind designing the app’s hea
 
 ### Fikret / 2026-10-18
 
-![Fikret Preview](https://raw.githubusercontent.com/rama-io/fikret/master/docs/preview.svg)
+[![Fikret Preview](https://raw.githubusercontent.com/rama-io/fikret/master/docs/preview.svg)](https://github.com/rama-io/fikret)
 
 An idle farm game about a goose who travels to other worlds rescuing birds.
 
