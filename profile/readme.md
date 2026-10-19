@@ -14,7 +14,7 @@ This short session captures part of the process behind designing the app’s hea
 
 ## Projects
 
-### Fikret / 2026-10-18
+### Fikret / 2026-09-21
 
 [![Fikret Preview](https://raw.githubusercontent.com/rama-io/fikret/master/docs/preview.svg)](https://github.com/rama-io/fikret)
 
